@@ -1,1 +1,0 @@
-# algoritma_analizi
